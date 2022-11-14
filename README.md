@@ -15,7 +15,7 @@ Median Smartphone ownership in emerging economies is about 10 times as high as t
 ## DOWNLOAD WEIGHTS AND CODE
 
 ```python
-! git clone https://github.com/visualbuffer/copilot.git
+! git clone https://github.com/Bhanuteja01/copilot.git
 ! mv copilot/* ./
 ! wget -P ./model_data/ https://s3-ap-southeast-1.amazonaws.com/deeplearning-mat/backend.h5
 ```
